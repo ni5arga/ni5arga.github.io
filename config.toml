@@ -1,0 +1,50 @@
+baseurl = "https://ni5arga.github.io"
+enableEmoji = true
+footnotereturnlinkcontents = "↩"
+googleAnalytics = ""
+ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
+languageCode = "en-us"
+theme = "hugo-classic"
+title = "Classic"
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[markup.highlight]
+anchorLineNos = false
+codeFences = true
+guessSyntax = false
+hl_Lines = ""
+lineAnchors = ""
+lineNoStart = 1
+lineNos = false
+lineNumbersInTable = true
+noClasses = true
+style = "monokai"
+tabWidth = 4
+
+[permalinks]
+post = "/:slug/"
+
+[[menu.main]]
+name = "Categories"
+url = "/categories/"
+weight = 1
+[[menu.main]]
+name = "Tags"
+url = "/tags/"
+weight = 2
+[[menu.feed]]
+name = "Website"
+url = "https://nisarga.me/"
+[[menu.feed]]
+name = "GitHub"
+url = "https://github.com/ni5arga"
+[[menu.feed]]
+name = "Subscribe"
+url = "/index.xml"
+
+[params]
+custom_css = ["css/theme-override.css"]
+description = "A simple, minimal blog for those who love text."
+footer = "Made with 💙 by ni5arga | [Website](https://nisarga.me) | [GitHub](https://github.com/ni5arga)"
