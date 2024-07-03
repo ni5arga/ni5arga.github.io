@@ -13,7 +13,7 @@ unsafe = true
 [markup.highlight]
 anchorLineNos = false
 codeFences = false
-guessSyntax = false
+guessSyntax = true
 hl_Lines = ""
 lineAnchors = ""
 lineNoStart = 1
