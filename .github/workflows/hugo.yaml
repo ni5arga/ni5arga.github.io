@@ -41,7 +41,7 @@ jobs:
       - name: Clone Hugo Classic Theme
         run: |
           if [ ! -d "themes/hugo-classic" ]; then
-            git clone https://github.com/goodroot/hugo-classic.git themes/hugo-classic
+            git clone https://github.com/ni5arga/hugo-classic.git themes/hugo-classic
           fi
       - name: Setup Pages
         id: pages
