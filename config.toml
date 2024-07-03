@@ -27,13 +27,17 @@ tabWidth = 4
 post = "/:slug/"
 
 [[menu.main]]
+name = "Posts"
+url = "/posts/"
+weight = 1
+[[menu.main]]
 name = "Categories"
 url = "/categories/"
 weight = 1
 [[menu.main]]
 name = "Tags"
 url = "/tags/"
-weight = 2
+weight = 1
 
 [[menu.feed]]
 name = "GitHub"
