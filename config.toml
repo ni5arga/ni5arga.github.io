@@ -44,3 +44,4 @@ url = "https://github.com/ni5arga"
 custom_css = ["css/theme-override.css"]
 description = "a place where ni5arga dumps his thoughts"
 footer = "Spread Love <3 | [Website](https://nisarga.me) | [GitHub](https://github.com/ni5arga)"
+favico = "/static/images/favicon.ico"
