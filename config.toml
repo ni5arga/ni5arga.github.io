@@ -46,5 +46,5 @@ url = "/index.xml"
 
 [params]
 custom_css = ["css/theme-override.css"]
-description = "A simple, minimal blog for those who love text."
-footer = "Made with 💙 by ni5arga | [Website](https://nisarga.me) | [GitHub](https://github.com/ni5arga)"
+description = "a place where ni5arga dumps his thoughts"
+footer = "Spread Love <3 | [Website](https://nisarga.me) | [GitHub](https://github.com/ni5arga)"
