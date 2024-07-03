@@ -45,6 +45,8 @@ jobs:
         with:
           submodules: recursive
           fetch-depth: 0
+      - name: Clone Hugo Classic Theme
+        run: git clone https://github.com/theNewDynamic/hugo-classic.git themes/hugo-classic
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
@@ -54,7 +56,7 @@ jobs:
         env:
           HUGO_CACHEDIR: ${{ runner.temp }}/hugo_cache
           HUGO_ENVIRONMENT: production
-          TZ: America/Los_Angeles
+          TZ: Asia/Kolkata
         run: |
           hugo \
             --gc \
