@@ -1,5 +1,5 @@
 ---
-title: "# How I hacked an ARG/Cryptic Hunt site"
+title: "How I hacked an ARG/Cryptic Hunt site"
 date: '2023-03-10'
 categories:
   - cybersecurity 
