@@ -43,6 +43,10 @@ weight = 3
 name = "GitHub"
 url = "https://github.com/ni5arga"
 
+[[menu.feed]]
+name = "website"
+url = "https://nisarga.me"
+
 
 [params]
 custom_css = ["css/theme-override.css"]
