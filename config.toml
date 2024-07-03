@@ -26,11 +26,6 @@ tabWidth = 4
 [permalinks]
 post = "/:slug/"
 
-
-[[menu.main]]
-name = "Writings"
-url = "/writings/"
-weight = 2
 [[menu.main]]
 name = "Categories"
 url = "/categories/"
