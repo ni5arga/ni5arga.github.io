@@ -8,6 +8,7 @@ tags:
   - cybersecurity
   - pentesting
 slug: how-i-hacked-an-arg-site
+---
 
 A friend of mine was organizing an ARG/Cryptic Hunt competition for his school's techfest/competition. He built the site/platform where the competition was being hosted all by himself. But it was buggy, really buggy and had a lot of vulnerabilities.
 
