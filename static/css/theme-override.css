@@ -1,1 +1,9 @@
-footer { font-size: 90%; }
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&display=swap');
+
+footer {
+  font-size: 90%;
+}
+
+code {
+  font-family: 'JetBrains Mono', monospace;
+}
