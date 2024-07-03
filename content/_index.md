@@ -1,20 +1,19 @@
 ---
 title: Home
-description: "The personal writings and expressions of Grayfox, otherwise known as you too and everyone else. It is a loving and silly place."
+description: "A place where ni5arga dumps his thoughts"
 ---
 <img
   id="foxy"
-  src="/images/grayf0x.jpg"
+  src="/images/ni5arga.jpg"
   alt="A foxy face">
 
 ## Welcome, friend
 
 ### :purple_heart: :earth_africa: :purple_heart:
 
-Born in [The Abyss](https://en.wikipedia.org/wiki/Edmonton), **Grayfox** - also known as Zerkle Snorp - has spent over two decades fiddling with things on the Internet. Today he does nothing, so stop asking.
+Heya! I'm Nisarga - a passionate software engineer and hacker from India fueled by caffiene. I love to build new stuff, hack around and break things. I sometimes research and study about cybersecurity out of curiosity and interest. Nowadays, my interest mostly lies in topics like backend development, pentesting, OSINT, malware-dev, reverse engineering and automation. 
 
-Their greatest joys are darkness and its quietudes.
-
+This is a place where I share my thoughts, writeups and other random stuff.
 
 ---
 
