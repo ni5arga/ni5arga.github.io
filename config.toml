@@ -26,6 +26,11 @@ tabWidth = 4
 [permalinks]
 post = "/:slug/"
 
+
+[[menu.main]]
+name = "Writings"
+url = "/writings/"
+weight = 2
 [[menu.main]]
 name = "Categories"
 url = "/categories/"
@@ -34,15 +39,13 @@ weight = 1
 name = "Tags"
 url = "/tags/"
 weight = 2
-[[menu.feed]]
+[[menu.main]]
 name = "Website"
 url = "https://nisarga.me/"
-[[menu.feed]]
+[[menu.main]]
 name = "GitHub"
 url = "https://github.com/ni5arga"
-[[menu.feed]]
-name = "Subscribe"
-url = "/index.xml"
+
 
 [params]
 custom_css = ["css/theme-override.css"]
