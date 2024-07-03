@@ -3,9 +3,9 @@ title: Home
 description: "A place where ni5arga dumps his thoughts"
 ---
 <img
-  id="foxy"
+  id="profile-pic"
   src="/images/ni5arga.jpg"
-  alt="A foxy face">
+  alt="pfp">
 
 ## Welcome, friend
 
