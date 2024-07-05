@@ -150,6 +150,7 @@ Readme of a repository on the user's GitHub profile has his email address:
 **Question 5:** What site did you find his email address on?
 
 We found the user's email on GitHub.
+
 **Answer 5:** GitHub
 
 **Question 6:** Where has he gone on holiday?
