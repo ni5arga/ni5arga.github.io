@@ -1,7 +1,7 @@
 ---
 title: "How I hacked an ARG/Cryptic Hunt site"
 author: "Nisarga"
-date: '2023-03-10'
+date: '2023-10-03'
 categories:
   - cybersecurity 
 tags:
