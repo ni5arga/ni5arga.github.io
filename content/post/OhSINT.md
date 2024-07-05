@@ -57,7 +57,7 @@ exiftool image.jpg
 > note: i assumed that you have saved the file with the name "image.jpg"
 
 This is the output
-```shell
+```
 ➜ Downloads exiftool image.jpg  
 ExifTool Version Number : 12.76  
 File Name : image.jpg  
